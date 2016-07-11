@@ -1,3 +1,15 @@
+# classpass/css-to-pdf
+
+This is a fork of [Xportability/css-to-pdf][upstream] updated with ClassPass specific settings.
+
+[upstream]: https://github.com/Xportability/css-to-pdf
+
+It is currently used by the ClassPass studio portal.
+Questions?
+Contact the Studios Squad.
+
+# (Original README.md follows)
+
 css2pdf is a simple to use Javascript for CSS to PDF rendering that can easily be plugged-in to your website.
 
 Please visit the complete demonstration website at http://www.cloudformatter.com/css2pdf
